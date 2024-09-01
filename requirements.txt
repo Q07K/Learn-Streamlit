@@ -1,5 +1,5 @@
 numpy
 pandas
 matplotlib
-langchain==0.2.14
-langchain-google-genai==1.0.10
+langchain
+langchain-google-genai
