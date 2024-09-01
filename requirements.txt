@@ -1,5 +1,7 @@
+streamlit
 numpy
 pandas
 matplotlib
 langchain
 langchain-google-genai
+langchain-community
