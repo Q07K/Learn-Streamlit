@@ -6,3 +6,6 @@ langchain-community==0.2.12
 langchain-core==0.2.34
 langchain-google-genai==1.0.10
 langchain-text-splitters==0.2.2
+googleapis-common-protos==1.63.2
+proto-plus==1.24.0
+protobuf==4.25.4
