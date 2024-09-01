@@ -1,5 +1,8 @@
 numpy
 pandas
 matplotlib
-langchain-core
-langchain-google-genai
+langchain==0.2.14
+langchain-community==0.2.12
+langchain-core==0.2.34
+langchain-google-genai==1.0.10
+langchain-text-splitters==0.2.2
